@@ -1,0 +1,14 @@
+# 本機練習備份與證據，不進 Git 歷史
+.lab-backups/
+.lab-evidence/
+PR-DRAFT.md
+# 登入資料與私人設定
+.env
+.env.*
+*.pem
+*.key
+secrets.txt
+# 作業系統暫存檔
+.DS_Store
+Thumbs.db
+desktop.ini
